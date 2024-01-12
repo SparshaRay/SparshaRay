@@ -4,6 +4,4 @@
 
 I am a 3rd year undergraduate student majoring in physics at [IISER Mohali](https://www.iisermohali.ac.in/).
 
-I am fascinated by astrophysics, mathematics, and computer science. And I love to play around with generative art too! Here you will find some of the stuff I made with ❤️. Hope you like it! 
-
-Thank you for stopping by 🍀
+I am fascinated by astrophysics, mathematics, and computer science. And I love to play around with generative art too! Thank you for stopping by 🍀
