@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! 👋 I'm Sparsha </h1>
 
-<p align="center"> <img src="sprott.gif"/> </p>
+<p align="center"> <img src="1.gif"/> </p>
 
 I am a 3rd year undergraduate student majoring in physics at [IISER Mohali](https://www.iisermohali.ac.in/).
 
